@@ -44,7 +44,13 @@ Standard deviation of heights.
 
 Performing a data collapse for height probability distribution.
 
-![alt text]()
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/probheightsL.png?raw=true)
+
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/scaledprobheightsL.png?raw=true)
+
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/probheightsys.png?raw=true)
+
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/datacollprobdist.png?raw=true)
 
 # Avalanches (task3a.py)
 
