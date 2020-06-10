@@ -14,9 +14,11 @@ Measure total height of pile as function of time:
 
 ![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/task2a.png?raw=true)
 
-# Logarithmic and rescaled height distributions (task2c.py - task2b.py was a written excersise)
+# Logarithmic and rescaled height distributions, and Data collapse I (task2c.py - task2b.py was a written excersise)
 
 Plot height distributions for different size sand piles logarithmically and rescale each system by its length and size.
+
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/task2a.png?raw=true)
 
 ![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/plotsscalsebyL2b.png?raw=true)
 
@@ -40,7 +42,7 @@ Standard deviation of heights.
 
 ![alt text]()
 
-# Data collapse I (task2g.py)
+# Data collapse II (task2g.py)
 
 Performing a data collapse for height probability distribution.
 
