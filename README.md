@@ -18,7 +18,11 @@ Measure total height of pile as function of time:
 
 Plot height distributions for different size sand piles logarithmically and rescale each system by its length and size.
 
-![alt text]()
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/plotsscalsebyL2b.png?raw=true)
+
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/plotsscalsebyLsquared2b.png?raw=true)
+
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/Data_collapse_pileheights.png?raw=true)
 
 # Comparison between theoretical and numerical performance (task2d.py)
 
