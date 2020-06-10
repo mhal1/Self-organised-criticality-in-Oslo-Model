@@ -4,7 +4,7 @@ Implemented the Oslo model which is a simulation of a sand pile. Numerically and
 
 # Testing the sand pile works (task1.py)
 
-Five checks to ensure model of snad pile is functioning as expected.
+Five checks to ensure model of sand pile is functioning as expected.
 
 ![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/task1.png?raw=true)
 
