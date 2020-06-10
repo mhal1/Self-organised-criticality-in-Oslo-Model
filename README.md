@@ -6,13 +6,13 @@ Implemented the Oslo model which is a simulation of a sand pile. Numerically and
 
 Five checks to ensure model of snad pile is functioning as expected.
 
-![alt text]()
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/task1.png?raw=true)
 
 # Height distributions (task2a.py)
 
 Measure total height of pile as function of time:
 
-![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/task2a.png?raw=true)
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/heightsofsandpiles.png?raw=true)
 
 # Logarithmic and rescaled height distributions, and Data collapse I (task2c.py - task2b.py was a written excersise)
 
@@ -54,7 +54,7 @@ Simulate sand pile adding one grain at a time and measure avalanche sizes.
 
 ![alt text]()
 
-# Data collapse II (task3b.py)
+# Data collapse III (task3b.py)
 
 Performing data collapse on avalanche rescaled probability distributions.
 
