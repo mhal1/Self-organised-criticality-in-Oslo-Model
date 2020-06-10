@@ -30,7 +30,7 @@ Plot height distributions for different size sand piles logarithmically and resc
 
 Also critical times plotted.
 
-![alt text]()
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/percentdiff.png?raw=true)
 
 # Calculating parameter a_0 (task2e.py)
 
@@ -39,8 +39,6 @@ See report for explanation.
 # Statistical analysis on heights (task2f.py)
 
 Standard deviation of heights.
-
-![alt text]()
 
 # Data collapse II (task2g.py)
 
