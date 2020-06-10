@@ -12,7 +12,7 @@ Five checks to ensure model of snad pile is functioning as expected.
 
 Measure total height of pile as function of time:
 
-![alt text]()
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/task2a.png?raw=true)
 
 # Logarithmic and rescaled height distributions (task2c.py - task2b.py was a written excersise)
 
