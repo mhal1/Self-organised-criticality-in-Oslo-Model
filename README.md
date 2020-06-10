@@ -56,19 +56,21 @@ Performing a data collapse for height probability distribution.
 
 Simulate sand pile adding one grain at a time and measure avalanche sizes.
 
-![alt text]()
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/probava.png?raw=true)
+
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/probavalog.png?raw=true)
 
 # Data collapse III (task3b.py)
 
 Performing data collapse on avalanche rescaled probability distributions.
 
-![alt text]()
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/datacollprob.png?raw=true)
+
+![alt text](https://github.com/mhal1/Self-organised-criticality-in-Oslo-Model/blob/master/datacollapseprobfinal.png?raw=true)
 
 # Parameter extraction (task3c.py)
 
 Extraction of parameters which produce the data collapse.
-
-![alt text]()
 
 For more information see full analysis in uploaded report.
 
